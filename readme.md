@@ -37,4 +37,10 @@ python -m pip install -U prettytable
 
 ## 二.运行predict测试文件
 
+(该区域更新中)
+
+
 ## 三.制作并训练自己的数据
+
+
+(该区域更新中)
