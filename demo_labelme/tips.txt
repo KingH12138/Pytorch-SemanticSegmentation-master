@@ -1,0 +1,1 @@
+该文件夹说明了：labeme生成的label_names.txt说明了：label.png的像素值是多少，类别下标就是多少

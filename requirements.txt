@@ -1,0 +1,9 @@
+matplotlib==3.5.2
+opencv_python==4.6.0.66
+pandas==1.4.3
+Pillow==9.2.0
+prettytable==3.3.0
+scikit_learn==1.1.1
+seaborn==0.11.2
+torchsummary==1.5.1
+tqdm==4.64.0
